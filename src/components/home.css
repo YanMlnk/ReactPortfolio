@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.mainPageBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.mainTitle {
+    font-size: 3rem;
+    color: rgba(154, 118, 74, 0.74);
+    font-family: 'Pacifico', cursive;
+}
+
+.mainText {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-size: 1.5rem;
+    color: rgba(154, 118, 74, 0.895);
+}
+
+button {
+    font-size: 20px;
+    transition-duration: 0.4s;
+    width: 260px;
+  }
+  
+button:hover {
+    background-color: rgba(154, 118, 74, 0.74);
+    color: white;
+  }
+

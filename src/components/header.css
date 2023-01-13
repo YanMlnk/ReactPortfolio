@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&display=swap');
+
+header {
+   width: 100%;
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-direction: row;
+    list-style-type: none;     
+}
+
+li {
+    font-size: 30px;
+    font-family: 'Rowdies', cursive;
+    color: rgba(154, 118, 74, 0.74);
+}
